@@ -32,7 +32,7 @@ source venv/bin/activate
 
 pip install numpy meshcat    
     
-git clone 
+git clone https://github.com/YuehChuan/optitrack_motive.git 
 
 python optitrack_to_robot.py    
 
