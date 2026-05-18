@@ -1,10 +1,5 @@
 # OptiTrack NatNet Usage
 
- 
----
-
-# OptiTrack NatNet Usage
-
 Receive Rigid Body pose (x, y, z + quaternion) on a remote computer using the NatNet SDK from OptiTrack Motive.
 
 ---
